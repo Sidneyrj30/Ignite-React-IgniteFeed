@@ -22,5 +22,5 @@ Esse projeto imita uma rede social onde a única interação é via comentários
 
 - Typescript: linguagem tipada do javascript para facilitar no encontro de erros e manutenção.
 - React: biblioteca javascript para a cosntrução da aplicação front-end.
-- date-fns: biblioteca javascript para datas, utilizado para mostrar as datas das aulas formatado pelo dia da semana, dia do mês, mês e hora em português.
+- date-fns: biblioteca javascript para datas, utilizado para mostrar as data em que foi publicado um post e mostra a quanto tempo atrás foi feito e quando passado o mouse mostra o dia do mês, o mês e as hora, tudo em português.
 - Phosphor Icons: é uma família de ícones flexível para interfaces, diagramas, apresentações. Utilizado para ícone de deletar comentário, aplaudir comentário e editar perfil (que não tem interação)
