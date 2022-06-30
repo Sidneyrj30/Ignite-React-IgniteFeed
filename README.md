@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Phosphor Icons](https://phosphoricons.com/)
 
 ## 💻 Projeto
-O Ignite Feed imita uma rede social onde a única interação é via comentários, o usuário pode criar um comentário, deleta-lo e dar likes com o 'Aplaudir'.É responsivo para adaptar em tamanho de diferentes telas como celular.
+O Ignite Feed imita uma rede social onde a única interação é via comentários, o usuário pode criar um comentário, deleta-lo e dar likes com o 'Aplaudir'. É responsivo para adaptar em tamanho de diferentes telas como celular.
 
 ## 🚀 Sobre as tecnologias
 
